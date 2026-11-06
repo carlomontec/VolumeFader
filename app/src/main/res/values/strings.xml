@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VolumeFader</string>
+    <string name="notification_channel_name">Volume Fader Timer</string>
+    <string name="notification_channel_description">Active volume fade countdown and playback controls</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_add_5m">+5 min</string>
+</resources>
